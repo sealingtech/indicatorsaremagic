@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<indicators>
+  <indicator type="http_get">
+    <useragent>xyz123</useragent>
+    <language>en-US</language>
+    <url>http://google.com</url>
+  </indicator>
+  <indicator type="dns_request">
+    <hostname>google.com</hostname>
+  </indicator>
+  <indicator type="http_get">
+    <language>en-US</language>
+    <useragent>xyz123</useragent>
+    <url>https://google.com</url>
+  </indicator>
+  <indicator type="http_post_fields">
+    <useragent>xyz123</useragent>
+    <language>en-US</language>
+    <url>http://104.154.30.195/login/process.php</url>
+    <fields>
+      <field>
+        <key>username</key>
+        <value>joe</value>
+      </field>
+      <field>
+        <key>password</key>
+        <value>blow</value>
+      </field>
+    </fields>
+  </indicator>
+  <indicator type="http_post_file">
+    <url>http://104.154.30.195/fileupload/upload.php</url>
+    <param_name>fileToUpload</param_name>
+    <file>test.txt</file>
+    <file_type>text/plain</file_type>
+    <fields>
+      <field>
+        <key>submit</key>
+        <value>Upload File</value>
+      </field>
+    </fields>
+  </indicator>
+</indicators>

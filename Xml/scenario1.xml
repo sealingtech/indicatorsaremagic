@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<indicators>
+  <indicator type="dns_request">
+    <hostname>yingbanker.com</hostname>
+  </indicator>
+  <indicator type="dns_request">
+    <hostname>ywrefining.com</hostname>
+  </indicator>
+  <indicator type="dns_request">
+    <hostname>zaxestore.com</hostname>
+  </indicator>
+  <indicator type="http_get">
+    <language>en-US</language>
+    <useragent>Vicious pony 5.32</useragent>
+    <url>http://104.154.30.195/scenario1/check.php</url>
+  </indicator>
+  <indicator type="http_get">
+    <language>en-US</language>
+    <useragent>Vicious pony 5.32</useragent>
+    <url>http://104.154.30.195/scenario1/insert.php</url>
+  </indicator>
+  <indicator type="http_get">
+    <language>en-US</language>
+    <useragent>Vicious pony 5.32</useragent>
+    <url>http://104.154.30.195/scenario1/query.php</url>
+  </indicator>
+</indicators>
