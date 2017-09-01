@@ -1,0 +1,9 @@
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\bin\Release\IndicatorMagic2.exe.config
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\bin\Release\IndicatorMagic2.exe
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\bin\Release\IndicatorMagic2.pdb
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Release\IndicatorMagic2.Form1.resources
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Release\IndicatorMagic2.Properties.Resources.resources
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Release\IndicatorMagic2.csproj.GenerateResource.Cache
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Release\IndicatorMagic2.csproj.CoreCompileInputs.cache
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Release\IndicatorMagic2.exe
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Release\IndicatorMagic2.pdb

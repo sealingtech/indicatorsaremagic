@@ -1,0 +1,10 @@
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.csprojResolveAssemblyReference.cache
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.Form1.resources
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.Properties.Resources.resources
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.csproj.GenerateResource.Cache
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.csproj.CoreCompileInputs.cache
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\bin\Debug\IndicatorMagic2.exe
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\bin\Debug\IndicatorMagic2.pdb
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.exe
+c:\users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\obj\Debug\IndicatorMagic2.pdb
+C:\Users\dlohin\source\repos\IndicatorMagic2\IndicatorMagic2\bin\Debug\IndicatorMagic2.exe.config
