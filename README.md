@@ -19,3 +19,4 @@ Training of network defenders
 Testing of network tools
 
 This was designed to be done in an operational environment.
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hZPeRvcwLms/0.jpg)](https://www.youtube.com/watch?v=hZPeRvcwLms)
