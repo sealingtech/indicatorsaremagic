@@ -82,6 +82,7 @@ HTTP Post will upload a file to a website.  The file must live in the same direc
 ### http_post_fields
 This will post values into a web form and submit the form.
 
+```
   <indicator type="http_post_fields">
     <useragent>xyz123</useragent>
     <language>en-US</language>
@@ -97,3 +98,4 @@ This will post values into a web form and submit the form.
       </field>
     </fields>
   </indicator>
+```
